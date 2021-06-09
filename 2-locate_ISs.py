@@ -11,7 +11,7 @@ for sra in SRAS:
   system(f'mv {sra}*.fasta {sra}')
  
   profiler = ISprofiler(sra=sra,
-                        outdir='',
+                        outdir='sequences',
                         nb_threads=4,
                         loglevel=logging.DEBUG)
   profiler.parse()
