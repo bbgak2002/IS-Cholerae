@@ -1,0 +1,843 @@
+bassam@bassam-Inspiron-5559:/media/bassam/work/Researches/CRISPER/IS$ python3 2-locate_ISs.py 
+Read 181016 spots for ERR125433
+Written 181016 spots for ERR125433
+INFO:root:Initialization
+INFO:root:Preparing ERR125433 sequences
+Locate sequences in ERR125433 directory
+
+
+Building a new DB, current time: 06/08/2021 04:51:14
+New DB name:   /media/bassam/work/Researches/CRISPER/IS/ERR125433/ERR125433
+New DB title:  ERR125433
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 1000000000B
+Adding sequences from FASTA; added 181016 sequences in 3.15569 seconds.
+Sra path is ERR125433
+Locate sequences in ERR125433 directory
+ERR125433/ERR125433_shuffled.fasta
+INFO:root:Looking for the insertion sequences
+INFO:root:Looking for IS1004
+INFO:root:3 copie(s) found
+INFO:root:Looking for IS1358
+INFO:root:1 copie(s) found
+INFO:root:Looking for ISAlg
+INFO:root:2 copie(s) found
+INFO:root:Looking for ISVch1
+INFO:root:0 copie(s) found
+INFO:root:Looking for ISVch3
+INFO:root:0 copie(s) found
+INFO:root:Looking for ISVch4
+INFO:root:3 copie(s) found
+INFO:root:Looking for ISVch5
+INFO:root:0 copie(s) found
+INFO:root:Looking for ISVch6
+INFO:root:0 copie(s) found
+INFO:root:Looking for ISVch7
+INFO:root:0 copie(s) found
+INFO:root:Looking for ISVch8
+INFO:root:0 copie(s) found
+INFO:root:Looking for ISVch9
+INFO:root:0 copie(s) found
+Read 274486 spots for ERR125428
+Written 274486 spots for ERR125428
+INFO:root:Initialization
+INFO:root:Preparing ERR125428 sequences
+Locate sequences in ERR125428 directory
+
+
+Building a new DB, current time: 06/08/2021 04:51:34
+New DB name:   /media/bassam/work/Researches/CRISPER/IS/ERR125428/ERR125428
+New DB title:  ERR125428
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 1000000000B
+Adding sequences from FASTA; added 274486 sequences in 5.01442 seconds.
+Sra path is ERR125428
+Locate sequences in ERR125428 directory
+ERR125428/ERR125428_shuffled.fasta
+INFO:root:Looking for the insertion sequences
+INFO:root:Looking for IS1004
+INFO:root:24 copie(s) found
+INFO:root:Looking for IS1358
+INFO:root:0 copie(s) found
+INFO:root:Looking for ISAlg
+INFO:root:5 copie(s) found
+INFO:root:Looking for ISVch1
+INFO:root:2 copie(s) found
+INFO:root:Looking for ISVch3
+INFO:root:0 copie(s) found
+INFO:root:Looking for ISVch4
+INFO:root:9 copie(s) found
+INFO:root:Looking for ISVch5
+INFO:root:1 copie(s) found
+INFO:root:Looking for ISVch6
+INFO:root:1 copie(s) found
+INFO:root:Looking for ISVch7
+INFO:root:0 copie(s) found
+INFO:root:Looking for ISVch8
+INFO:root:0 copie(s) found
+INFO:root:Looking for ISVch9
+INFO:root:0 copie(s) found
+Read 2104302 spots for ERR125426
+Written 2104302 spots for ERR125426
+INFO:root:Initialization
+INFO:root:Preparing ERR125426 sequences
+Locate sequences in ERR125426 directory
+
+
+Building a new DB, current time: 06/08/2021 04:52:12
+New DB name:   /media/bassam/work/Researches/CRISPER/IS/ERR125426/ERR125426
+New DB title:  ERR125426
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 1000000000B
+Adding sequences from FASTA; added 2104302 sequences in 39.6301 seconds.
+Sra path is ERR125426
+Locate sequences in ERR125426 directory
+ERR125426/ERR125426_shuffled.fasta
+INFO:root:Looking for the insertion sequences
+INFO:root:Looking for IS1004
+INFO:root:43 copie(s) found
+INFO:root:Looking for IS1358
+INFO:root:2 copie(s) found
+INFO:root:Looking for ISAlg
+INFO:root:10 copie(s) found
+INFO:root:Looking for ISVch1
+INFO:root:9 copie(s) found
+INFO:root:Looking for ISVch3
+INFO:root:0 copie(s) found
+INFO:root:Looking for ISVch4
+INFO:root:14 copie(s) found
+INFO:root:Looking for ISVch5
+INFO:root:7 copie(s) found
+INFO:root:Looking for ISVch6
+INFO:root:10 copie(s) found
+INFO:root:Looking for ISVch7
+INFO:root:0 copie(s) found
+INFO:root:Looking for ISVch8
+INFO:root:2 copie(s) found
+INFO:root:Looking for ISVch9
+INFO:root:0 copie(s) found
+Read 112014 spots for ERR125412
+Written 112014 spots for ERR125412
+INFO:root:Initialization
+INFO:root:Preparing ERR125412 sequences
+Locate sequences in ERR125412 directory
+
+
+Building a new DB, current time: 06/08/2021 04:55:00
+New DB name:   /media/bassam/work/Researches/CRISPER/IS/ERR125412/ERR125412
+New DB title:  ERR125412
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 1000000000B
+Adding sequences from FASTA; added 112014 sequences in 2.00212 seconds.
+Sra path is ERR125412
+Locate sequences in ERR125412 directory
+ERR125412/ERR125412_shuffled.fasta
+INFO:root:Looking for the insertion sequences
+INFO:root:Looking for IS1004
+INFO:root:2 copie(s) found
+INFO:root:Looking for IS1358
+INFO:root:0 copie(s) found
+INFO:root:Looking for ISAlg
+INFO:root:0 copie(s) found
+INFO:root:Looking for ISVch1
+INFO:root:0 copie(s) found
+INFO:root:Looking for ISVch3
+INFO:root:0 copie(s) found
+INFO:root:Looking for ISVch4
+INFO:root:2 copie(s) found
+INFO:root:Looking for ISVch5
+INFO:root:0 copie(s) found
+INFO:root:Looking for ISVch6
+INFO:root:0 copie(s) found
+INFO:root:Looking for ISVch7
+INFO:root:0 copie(s) found
+INFO:root:Looking for ISVch8
+INFO:root:0 copie(s) found
+INFO:root:Looking for ISVch9
+INFO:root:0 copie(s) found
+Read 153749 spots for ERR125411
+Written 153749 spots for ERR125411
+INFO:root:Initialization
+INFO:root:Preparing ERR125411 sequences
+Locate sequences in ERR125411 directory
+
+
+Building a new DB, current time: 06/08/2021 04:55:14
+New DB name:   /media/bassam/work/Researches/CRISPER/IS/ERR125411/ERR125411
+New DB title:  ERR125411
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 1000000000B
+Adding sequences from FASTA; added 153749 sequences in 3.3166 seconds.
+Sra path is ERR125411
+Locate sequences in ERR125411 directory
+ERR125411/ERR125411_shuffled.fasta
+INFO:root:Looking for the insertion sequences
+INFO:root:Looking for IS1004
+INFO:root:2 copie(s) found
+INFO:root:Looking for IS1358
+INFO:root:1 copie(s) found
+INFO:root:Looking for ISAlg
+INFO:root:0 copie(s) found
+INFO:root:Looking for ISVch1
+INFO:root:0 copie(s) found
+INFO:root:Looking for ISVch3
+INFO:root:0 copie(s) found
+INFO:root:Looking for ISVch4
+INFO:root:1 copie(s) found
+INFO:root:Looking for ISVch5
+INFO:root:0 copie(s) found
+INFO:root:Looking for ISVch6
+INFO:root:0 copie(s) found
+INFO:root:Looking for ISVch7
+INFO:root:0 copie(s) found
+INFO:root:Looking for ISVch8
+INFO:root:0 copie(s) found
+INFO:root:Looking for ISVch9
+INFO:root:0 copie(s) found
+Read 70225 spots for ERR125410
+Written 70225 spots for ERR125410
+INFO:root:Initialization
+INFO:root:Preparing ERR125410 sequences
+Locate sequences in ERR125410 directory
+
+
+Building a new DB, current time: 06/08/2021 04:55:30
+New DB name:   /media/bassam/work/Researches/CRISPER/IS/ERR125410/ERR125410
+New DB title:  ERR125410
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 1000000000B
+Adding sequences from FASTA; added 70225 sequences in 1.40423 seconds.
+Sra path is ERR125410
+Locate sequences in ERR125410 directory
+ERR125410/ERR125410_shuffled.fasta
+INFO:root:Looking for the insertion sequences
+INFO:root:Looking for IS1004
+INFO:root:1 copie(s) found
+INFO:root:Looking for IS1358
+INFO:root:2 copie(s) found
+INFO:root:Looking for ISAlg
+INFO:root:0 copie(s) found
+INFO:root:Looking for ISVch1
+INFO:root:0 copie(s) found
+INFO:root:Looking for ISVch3
+INFO:root:0 copie(s) found
+INFO:root:Looking for ISVch4
+INFO:root:0 copie(s) found
+INFO:root:Looking for ISVch5
+INFO:root:0 copie(s) found
+INFO:root:Looking for ISVch6
+INFO:root:0 copie(s) found
+INFO:root:Looking for ISVch7
+INFO:root:0 copie(s) found
+INFO:root:Looking for ISVch8
+INFO:root:0 copie(s) found
+INFO:root:Looking for ISVch9
+INFO:root:0 copie(s) found
+Read 2718141 spots for ERR125427
+Written 2718141 spots for ERR125427
+INFO:root:Initialization
+INFO:root:Preparing ERR125427 sequences
+Locate sequences in ERR125427 directory
+
+
+Building a new DB, current time: 06/08/2021 04:56:07
+New DB name:   /media/bassam/work/Researches/CRISPER/IS/ERR125427/ERR125427
+New DB title:  ERR125427
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 1000000000B
+Adding sequences from FASTA; added 2718141 sequences in 47.6344 seconds.
+Sra path is ERR125427
+Locate sequences in ERR125427 directory
+ERR125427/ERR125427_shuffled.fasta
+INFO:root:Looking for the insertion sequences
+INFO:root:Looking for IS1004
+INFO:root:0 copie(s) found
+INFO:root:Looking for IS1358
+INFO:root:0 copie(s) found
+INFO:root:Looking for ISAlg
+INFO:root:0 copie(s) found
+INFO:root:Looking for ISVch1
+INFO:root:0 copie(s) found
+INFO:root:Looking for ISVch3
+INFO:root:0 copie(s) found
+INFO:root:Looking for ISVch4
+INFO:root:0 copie(s) found
+INFO:root:Looking for ISVch5
+INFO:root:0 copie(s) found
+INFO:root:Looking for ISVch6
+INFO:root:0 copie(s) found
+INFO:root:Looking for ISVch7
+INFO:root:0 copie(s) found
+INFO:root:Looking for ISVch8
+INFO:root:0 copie(s) found
+INFO:root:Looking for ISVch9
+INFO:root:0 copie(s) found
+Read 156571 spots for ERR125434
+Written 156571 spots for ERR125434
+INFO:root:Initialization
+INFO:root:Preparing ERR125434 sequences
+Locate sequences in ERR125434 directory
+
+
+Building a new DB, current time: 06/08/2021 04:57:15
+New DB name:   /media/bassam/work/Researches/CRISPER/IS/ERR125434/ERR125434
+New DB title:  ERR125434
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 1000000000B
+Adding sequences from FASTA; added 156571 sequences in 2.77823 seconds.
+Sra path is ERR125434
+Locate sequences in ERR125434 directory
+ERR125434/ERR125434_shuffled.fasta
+INFO:root:Looking for the insertion sequences
+INFO:root:Looking for IS1004
+INFO:root:6 copie(s) found
+INFO:root:Looking for IS1358
+INFO:root:0 copie(s) found
+INFO:root:Looking for ISAlg
+INFO:root:5 copie(s) found
+INFO:root:Looking for ISVch1
+INFO:root:0 copie(s) found
+INFO:root:Looking for ISVch3
+INFO:root:0 copie(s) found
+INFO:root:Looking for ISVch4
+INFO:root:7 copie(s) found
+INFO:root:Looking for ISVch5
+INFO:root:2 copie(s) found
+INFO:root:Looking for ISVch6
+INFO:root:0 copie(s) found
+INFO:root:Looking for ISVch7
+INFO:root:0 copie(s) found
+INFO:root:Looking for ISVch8
+INFO:root:1 copie(s) found
+INFO:root:Looking for ISVch9
+INFO:root:0 copie(s) found
+Read 68529 spots for ERR125409
+Written 68529 spots for ERR125409
+INFO:root:Initialization
+INFO:root:Preparing ERR125409 sequences
+Locate sequences in ERR125409 directory
+
+
+Building a new DB, current time: 06/08/2021 04:57:30
+New DB name:   /media/bassam/work/Researches/CRISPER/IS/ERR125409/ERR125409
+New DB title:  ERR125409
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 1000000000B
+Adding sequences from FASTA; added 68529 sequences in 1.21268 seconds.
+Sra path is ERR125409
+Locate sequences in ERR125409 directory
+ERR125409/ERR125409_shuffled.fasta
+INFO:root:Looking for the insertion sequences
+INFO:root:Looking for IS1004
+INFO:root:2 copie(s) found
+INFO:root:Looking for IS1358
+INFO:root:1 copie(s) found
+INFO:root:Looking for ISAlg
+INFO:root:0 copie(s) found
+INFO:root:Looking for ISVch1
+INFO:root:0 copie(s) found
+INFO:root:Looking for ISVch3
+INFO:root:0 copie(s) found
+INFO:root:Looking for ISVch4
+INFO:root:0 copie(s) found
+INFO:root:Looking for ISVch5
+INFO:root:0 copie(s) found
+INFO:root:Looking for ISVch6
+INFO:root:0 copie(s) found
+INFO:root:Looking for ISVch7
+INFO:root:0 copie(s) found
+INFO:root:Looking for ISVch8
+INFO:root:0 copie(s) found
+INFO:root:Looking for ISVch9
+INFO:root:0 copie(s) found
+Read 120989 spots for ERR125408
+Written 120989 spots for ERR125408
+INFO:root:Initialization
+INFO:root:Preparing ERR125408 sequences
+Locate sequences in ERR125408 directory
+
+
+Building a new DB, current time: 06/08/2021 04:57:41
+New DB name:   /media/bassam/work/Researches/CRISPER/IS/ERR125408/ERR125408
+New DB title:  ERR125408
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 1000000000B
+Adding sequences from FASTA; added 120989 sequences in 2.14896 seconds.
+Sra path is ERR125408
+Locate sequences in ERR125408 directory
+ERR125408/ERR125408_shuffled.fasta
+INFO:root:Looking for the insertion sequences
+INFO:root:Looking for IS1004
+INFO:root:2 copie(s) found
+INFO:root:Looking for IS1358
+INFO:root:1 copie(s) found
+INFO:root:Looking for ISAlg
+INFO:root:0 copie(s) found
+INFO:root:Looking for ISVch1
+INFO:root:0 copie(s) found
+INFO:root:Looking for ISVch3
+INFO:root:0 copie(s) found
+INFO:root:Looking for ISVch4
+INFO:root:1 copie(s) found
+INFO:root:Looking for ISVch5
+INFO:root:0 copie(s) found
+INFO:root:Looking for ISVch6
+INFO:root:0 copie(s) found
+INFO:root:Looking for ISVch7
+INFO:root:0 copie(s) found
+INFO:root:Looking for ISVch8
+INFO:root:0 copie(s) found
+INFO:root:Looking for ISVch9
+INFO:root:0 copie(s) found
+Read 1254776 spots for ERR125407
+Written 1254776 spots for ERR125407
+INFO:root:Initialization
+INFO:root:Preparing ERR125407 sequences
+Locate sequences in ERR125407 directory
+
+
+Building a new DB, current time: 06/08/2021 04:58:05
+New DB name:   /media/bassam/work/Researches/CRISPER/IS/ERR125407/ERR125407
+New DB title:  ERR125407
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 1000000000B
+Adding sequences from FASTA; added 1254776 sequences in 21.8624 seconds.
+Sra path is ERR125407
+Locate sequences in ERR125407 directory
+ERR125407/ERR125407_shuffled.fasta
+INFO:root:Looking for the insertion sequences
+INFO:root:Looking for IS1004
+INFO:root:0 copie(s) found
+INFO:root:Looking for IS1358
+INFO:root:0 copie(s) found
+INFO:root:Looking for ISAlg
+INFO:root:0 copie(s) found
+INFO:root:Looking for ISVch1
+INFO:root:0 copie(s) found
+INFO:root:Looking for ISVch3
+INFO:root:0 copie(s) found
+INFO:root:Looking for ISVch4
+INFO:root:0 copie(s) found
+INFO:root:Looking for ISVch5
+INFO:root:0 copie(s) found
+INFO:root:Looking for ISVch6
+INFO:root:0 copie(s) found
+INFO:root:Looking for ISVch7
+INFO:root:0 copie(s) found
+INFO:root:Looking for ISVch8
+INFO:root:0 copie(s) found
+INFO:root:Looking for ISVch9
+INFO:root:0 copie(s) found
+Read 2934386 spots for ERR125406
+Written 2934386 spots for ERR125406
+INFO:root:Initialization
+INFO:root:Preparing ERR125406 sequences
+Locate sequences in ERR125406 directory
+
+
+Building a new DB, current time: 06/08/2021 04:59:13
+New DB name:   /media/bassam/work/Researches/CRISPER/IS/ERR125406/ERR125406
+New DB title:  ERR125406
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 1000000000B
+Adding sequences from FASTA; added 2934386 sequences in 53.8317 seconds.
+Sra path is ERR125406
+Locate sequences in ERR125406 directory
+ERR125406/ERR125406_shuffled.fasta
+INFO:root:Looking for the insertion sequences
+INFO:root:Looking for IS1004
+INFO:root:39 copie(s) found
+INFO:root:Looking for IS1358
+INFO:root:3 copie(s) found
+INFO:root:Looking for ISAlg
+INFO:root:4 copie(s) found
+INFO:root:Looking for ISVch1
+INFO:root:1 copie(s) found
+INFO:root:Looking for ISVch3
+INFO:root:0 copie(s) found
+INFO:root:Looking for ISVch4
+INFO:root:13 copie(s) found
+INFO:root:Looking for ISVch5
+INFO:root:4 copie(s) found
+INFO:root:Looking for ISVch6
+INFO:root:0 copie(s) found
+INFO:root:Looking for ISVch7
+INFO:root:0 copie(s) found
+INFO:root:Looking for ISVch8
+INFO:root:5 copie(s) found
+INFO:root:Looking for ISVch9
+INFO:root:0 copie(s) found
+Read 328913 spots for ERR125405
+Written 328913 spots for ERR125405
+INFO:root:Initialization
+INFO:root:Preparing ERR125405 sequences
+Locate sequences in ERR125405 directory
+
+
+Building a new DB, current time: 06/08/2021 05:02:22
+New DB name:   /media/bassam/work/Researches/CRISPER/IS/ERR125405/ERR125405
+New DB title:  ERR125405
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 1000000000B
+Adding sequences from FASTA; added 328913 sequences in 5.70237 seconds.
+Sra path is ERR125405
+Locate sequences in ERR125405 directory
+ERR125405/ERR125405_shuffled.fasta
+INFO:root:Looking for the insertion sequences
+INFO:root:Looking for IS1004
+INFO:root:16 copie(s) found
+INFO:root:Looking for IS1358
+INFO:root:1 copie(s) found
+INFO:root:Looking for ISAlg
+INFO:root:7 copie(s) found
+INFO:root:Looking for ISVch1
+INFO:root:2 copie(s) found
+INFO:root:Looking for ISVch3
+INFO:root:0 copie(s) found
+INFO:root:Looking for ISVch4
+INFO:root:9 copie(s) found
+INFO:root:Looking for ISVch5
+INFO:root:3 copie(s) found
+INFO:root:Looking for ISVch6
+INFO:root:0 copie(s) found
+INFO:root:Looking for ISVch7
+INFO:root:0 copie(s) found
+INFO:root:Looking for ISVch8
+INFO:root:4 copie(s) found
+INFO:root:Looking for ISVch9
+INFO:root:0 copie(s) found
+Read 360968 spots for ERR125404
+Written 360968 spots for ERR125404
+INFO:root:Initialization
+INFO:root:Preparing ERR125404 sequences
+Locate sequences in ERR125404 directory
+
+
+Building a new DB, current time: 06/08/2021 05:02:50
+New DB name:   /media/bassam/work/Researches/CRISPER/IS/ERR125404/ERR125404
+New DB title:  ERR125404
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 1000000000B
+Adding sequences from FASTA; added 360968 sequences in 6.28935 seconds.
+Sra path is ERR125404
+Locate sequences in ERR125404 directory
+ERR125404/ERR125404_shuffled.fasta
+INFO:root:Looking for the insertion sequences
+INFO:root:Looking for IS1004
+INFO:root:19 copie(s) found
+INFO:root:Looking for IS1358
+INFO:root:1 copie(s) found
+INFO:root:Looking for ISAlg
+INFO:root:6 copie(s) found
+INFO:root:Looking for ISVch1
+INFO:root:0 copie(s) found
+INFO:root:Looking for ISVch3
+INFO:root:0 copie(s) found
+INFO:root:Looking for ISVch4
+INFO:root:7 copie(s) found
+INFO:root:Looking for ISVch5
+INFO:root:3 copie(s) found
+INFO:root:Looking for ISVch6
+INFO:root:0 copie(s) found
+INFO:root:Looking for ISVch7
+INFO:root:0 copie(s) found
+INFO:root:Looking for ISVch8
+INFO:root:3 copie(s) found
+INFO:root:Looking for ISVch9
+INFO:root:0 copie(s) found
+Read 2585693 spots for ERR125378
+Written 2585693 spots for ERR125378
+INFO:root:Initialization
+INFO:root:Preparing ERR125378 sequences
+Locate sequences in ERR125378 directory
+
+
+Building a new DB, current time: 06/08/2021 05:03:48
+New DB name:   /media/bassam/work/Researches/CRISPER/IS/ERR125378/ERR125378
+New DB title:  ERR125378
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 1000000000B
+Adding sequences from FASTA; added 2585693 sequences in 45.3539 seconds.
+Sra path is ERR125378
+Locate sequences in ERR125378 directory
+ERR125378/ERR125378_shuffled.fasta
+INFO:root:Looking for the insertion sequences
+INFO:root:Looking for IS1004
+INFO:root:26 copie(s) found
+INFO:root:Looking for IS1358
+INFO:root:3 copie(s) found
+INFO:root:Looking for ISAlg
+INFO:root:18 copie(s) found
+INFO:root:Looking for ISVch1
+INFO:root:2 copie(s) found
+INFO:root:Looking for ISVch3
+INFO:root:0 copie(s) found
+INFO:root:Looking for ISVch4
+INFO:root:18 copie(s) found
+INFO:root:Looking for ISVch5
+INFO:root:6 copie(s) found
+INFO:root:Looking for ISVch6
+INFO:root:0 copie(s) found
+INFO:root:Looking for ISVch7
+INFO:root:0 copie(s) found
+INFO:root:Looking for ISVch8
+INFO:root:4 copie(s) found
+INFO:root:Looking for ISVch9
+INFO:root:0 copie(s) found
+Read 3358130 spots for ERR125377
+Written 3358130 spots for ERR125377
+INFO:root:Initialization
+INFO:root:Preparing ERR125377 sequences
+Locate sequences in ERR125377 directory
+
+
+Building a new DB, current time: 06/08/2021 05:08:06
+New DB name:   /media/bassam/work/Researches/CRISPER/IS/ERR125377/ERR125377
+New DB title:  ERR125377
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 1000000000B
+Adding sequences from FASTA; added 3358130 sequences in 60.5193 seconds.
+Sra path is ERR125377
+Locate sequences in ERR125377 directory
+ERR125377/ERR125377_shuffled.fasta
+INFO:root:Looking for the insertion sequences
+INFO:root:Looking for IS1004
+INFO:root:33 copie(s) found
+INFO:root:Looking for IS1358
+INFO:root:3 copie(s) found
+INFO:root:Looking for ISAlg
+INFO:root:17 copie(s) found
+INFO:root:Looking for ISVch1
+INFO:root:3 copie(s) found
+INFO:root:Looking for ISVch3
+INFO:root:0 copie(s) found
+INFO:root:Looking for ISVch4
+INFO:root:23 copie(s) found
+INFO:root:Looking for ISVch5
+INFO:root:4 copie(s) found
+INFO:root:Looking for ISVch6
+INFO:root:0 copie(s) found
+INFO:root:Looking for ISVch7
+INFO:root:0 copie(s) found
+INFO:root:Looking for ISVch8
+INFO:root:5 copie(s) found
+INFO:root:Looking for ISVch9
+INFO:root:0 copie(s) found
+Rejected 65038 READS because READLEN < 1
+Read 2353838 spots for ERR125351
+Written 2353838 spots for ERR125351
+INFO:root:Initialization
+INFO:root:Preparing ERR125351 sequences
+Locate sequences in ERR125351 directory
+
+
+Building a new DB, current time: 06/08/2021 05:14:15
+New DB name:   /media/bassam/work/Researches/CRISPER/IS/ERR125351/ERR125351
+New DB title:  ERR125351
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 1000000000B
+Adding sequences from FASTA; added 4642638 sequences in 80.2268 seconds.
+Sra path is ERR125351
+Locate sequences in ERR125351 directory
+ERR125351/ERR125351_shuffled.fasta
+INFO:root:Looking for the insertion sequences
+INFO:root:Looking for IS1004
+INFO:root:0 copie(s) found
+INFO:root:Looking for IS1358
+INFO:root:0 copie(s) found
+INFO:root:Looking for ISAlg
+INFO:root:0 copie(s) found
+INFO:root:Looking for ISVch1
+INFO:root:0 copie(s) found
+INFO:root:Looking for ISVch3
+INFO:root:0 copie(s) found
+INFO:root:Looking for ISVch4
+INFO:root:0 copie(s) found
+INFO:root:Looking for ISVch5
+INFO:root:0 copie(s) found
+INFO:root:Looking for ISVch6
+INFO:root:0 copie(s) found
+INFO:root:Looking for ISVch7
+INFO:root:0 copie(s) found
+INFO:root:Looking for ISVch8
+INFO:root:0 copie(s) found
+INFO:root:Looking for ISVch9
+INFO:root:0 copie(s) found
+Read 1747381 spots for ERR125353
+Written 1747381 spots for ERR125353
+INFO:root:Initialization
+INFO:root:Preparing ERR125353 sequences
+Locate sequences in ERR125353 directory
+
+
+Building a new DB, current time: 06/08/2021 05:16:47
+New DB name:   /media/bassam/work/Researches/CRISPER/IS/ERR125353/ERR125353
+New DB title:  ERR125353
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 1000000000B
+Adding sequences from FASTA; added 3457644 sequences in 58.9091 seconds.
+Sra path is ERR125353
+Locate sequences in ERR125353 directory
+ERR125353/ERR125353_shuffled.fasta
+INFO:root:Looking for the insertion sequences
+INFO:root:Looking for IS1004
+INFO:root:18 copie(s) found
+INFO:root:Looking for IS1358
+INFO:root:1 copie(s) found
+INFO:root:Looking for ISAlg
+INFO:root:7 copie(s) found
+INFO:root:Looking for ISVch1
+INFO:root:4 copie(s) found
+INFO:root:Looking for ISVch3
+INFO:root:0 copie(s) found
+INFO:root:Looking for ISVch4
+INFO:root:9 copie(s) found
+INFO:root:Looking for ISVch5
+INFO:root:5 copie(s) found
+INFO:root:Looking for ISVch6
+INFO:root:0 copie(s) found
+INFO:root:Looking for ISVch7
+INFO:root:0 copie(s) found
+INFO:root:Looking for ISVch8
+INFO:root:3 copie(s) found
+INFO:root:Looking for ISVch9
+INFO:root:0 copie(s) found
+Read 1789674 spots for ERR125357
+Written 1789674 spots for ERR125357
+INFO:root:Initialization
+INFO:root:Preparing ERR125357 sequences
+Locate sequences in ERR125357 directory
+
+
+Building a new DB, current time: 06/08/2021 05:20:41
+New DB name:   /media/bassam/work/Researches/CRISPER/IS/ERR125357/ERR125357
+New DB title:  ERR125357
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 1000000000B
+Adding sequences from FASTA; added 3544264 sequences in 60.7014 seconds.
+Sra path is ERR125357
+Locate sequences in ERR125357 directory
+ERR125357/ERR125357_shuffled.fasta
+INFO:root:Looking for the insertion sequences
+INFO:root:Looking for IS1004
+INFO:root:18 copie(s) found
+INFO:root:Looking for IS1358
+INFO:root:1 copie(s) found
+INFO:root:Looking for ISAlg
+INFO:root:5 copie(s) found
+INFO:root:Looking for ISVch1
+INFO:root:1 copie(s) found
+INFO:root:Looking for ISVch3
+INFO:root:0 copie(s) found
+INFO:root:Looking for ISVch4
+INFO:root:6 copie(s) found
+INFO:root:Looking for ISVch5
+INFO:root:3 copie(s) found
+INFO:root:Looking for ISVch6
+INFO:root:0 copie(s) found
+INFO:root:Looking for ISVch7
+INFO:root:0 copie(s) found
+INFO:root:Looking for ISVch8
+INFO:root:2 copie(s) found
+INFO:root:Looking for ISVch9
+INFO:root:0 copie(s) found
+Read 216436 spots for ERR125371
+Written 216436 spots for ERR125371
+INFO:root:Initialization
+INFO:root:Preparing ERR125371 sequences
+Locate sequences in ERR125371 directory
+
+
+Building a new DB, current time: 06/08/2021 05:23:54
+New DB name:   /media/bassam/work/Researches/CRISPER/IS/ERR125371/ERR125371
+New DB title:  ERR125371
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 1000000000B
+Adding sequences from FASTA; added 216436 sequences in 3.71547 seconds.
+Sra path is ERR125371
+Locate sequences in ERR125371 directory
+ERR125371/ERR125371_shuffled.fasta
+INFO:root:Looking for the insertion sequences
+INFO:root:Looking for IS1004
+INFO:root:14 copie(s) found
+INFO:root:Looking for IS1358
+INFO:root:0 copie(s) found
+INFO:root:Looking for ISAlg
+INFO:root:8 copie(s) found
+INFO:root:Looking for ISVch1
+INFO:root:1 copie(s) found
+INFO:root:Looking for ISVch3
+INFO:root:0 copie(s) found
+INFO:root:Looking for ISVch4
+INFO:root:9 copie(s) found
+INFO:root:Looking for ISVch5
+INFO:root:3 copie(s) found
+INFO:root:Looking for ISVch6
+INFO:root:0 copie(s) found
+INFO:root:Looking for ISVch7
+INFO:root:0 copie(s) found
+INFO:root:Looking for ISVch8
+INFO:root:0 copie(s) found
+INFO:root:Looking for ISVch9
+INFO:root:0 copie(s) found
+Read 103016 spots for ERR125373
+Written 103016 spots for ERR125373
+INFO:root:Initialization
+INFO:root:Preparing ERR125373 sequences
+Locate sequences in ERR125373 directory
+
+
+Building a new DB, current time: 06/08/2021 05:24:13
+New DB name:   /media/bassam/work/Researches/CRISPER/IS/ERR125373/ERR125373
+New DB title:  ERR125373
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 1000000000B
+Adding sequences from FASTA; added 103016 sequences in 1.84794 seconds.
+Sra path is ERR125373
+Locate sequences in ERR125373 directory
+ERR125373/ERR125373_shuffled.fasta
+INFO:root:Looking for the insertion sequences
+INFO:root:Looking for IS1004
+INFO:root:8 copie(s) found
+INFO:root:Looking for IS1358
+INFO:root:0 copie(s) found
+INFO:root:Looking for ISAlg
+INFO:root:3 copie(s) found
+INFO:root:Looking for ISVch1
+INFO:root:0 copie(s) found
+INFO:root:Looking for ISVch3
+INFO:root:0 copie(s) found
+INFO:root:Looking for ISVch4
+INFO:root:3 copie(s) found
+INFO:root:Looking for ISVch5
+INFO:root:1 copie(s) found
+INFO:root:Looking for ISVch6
+INFO:root:0 copie(s) found
+INFO:root:Looking for ISVch7
+INFO:root:0 copie(s) found
+INFO:root:Looking for ISVch8
+INFO:root:2 copie(s) found
+INFO:root:Looking for ISVch9
+INFO:root:0 copie(s) found
+
