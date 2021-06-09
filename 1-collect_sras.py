@@ -4,7 +4,7 @@ from tbtools import collector, ISprofiler, tools
 
 
 data=open('data/SRR_Acc_List.txt').read().split('\n')
-outfolder='sequences/sra'
+outfolder='sequences'
 
 #Download the SRAs in data from NCBI
 c=collector.Collector(sras=data, outdir=outfolder)     #we can use bioprojects=[list of bio projects] or biosamples=[list of biosamples], the last parameter is outdir='sequences' by default->change it to sequences/sra         
