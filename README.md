@@ -1,2 +1,2 @@
 # CRISPER-Cholerae
-CRISPER Builder for Vibrio Cholerae
+Insertion sequences searcher for Vibrio Cholerae O1
